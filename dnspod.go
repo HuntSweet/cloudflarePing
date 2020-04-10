@@ -48,16 +48,6 @@ import (
 //value”: 记录值
 //status”: 记录状态
 
-//record_id: "560520430"
-//domain: "uowo.tk"
-//sub_domain: "@"
-//record_type: "A"
-//record_line: "移动"
-//ttl: "600"
-//weight: "3"
-//value: "198.41.214.134"
-//mx: 5
-//api: "Record.CheckImpact"
 
 
 //都要大写
