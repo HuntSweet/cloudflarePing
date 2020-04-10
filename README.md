@@ -1,5 +1,5 @@
 # cfPing
- 旨在找到CloudFlare中对自己本地最好的节点。
+ 旨在找到CloudFlare中对自己本地最好的节点，并自动更改dnspod解析（配合cf自选ip)。
 # 配置
  在conf.ini文件中有详细说明。
 # 过程
