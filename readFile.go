@@ -13,8 +13,7 @@ var(
 
 )
 
-//对-的处理
-//对/的处理
+
 func getIps(ipfile string) (ips []string) {
 	f, err := os.Open(ipfile)
 	if err != nil {
@@ -57,6 +56,3 @@ func CountFileLine(name string) (count int) {
 	return count
 }
 
-//func ()  {
-//
-//}
